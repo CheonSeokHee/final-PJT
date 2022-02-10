@@ -76,6 +76,7 @@
                                         </a>
                                         </th:block>
                                     </div>
+                                    
                                     <div class="menu-item">
                                     <th:block th:if="${session.user}!=null">
                                         <a class="menu-link" th:href="@{../diet/getFoodList}">
@@ -96,6 +97,8 @@
                                         </a>
                                         </th:block>
                                     </div>
+                                    
+                                    
                                     <div class="menu-item">
                                         <th:block th:if="${session.user}!=null">
                                       <a class="menu-link" th:href="@{../diet/getDailyIntakeMeal}">
