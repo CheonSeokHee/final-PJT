@@ -11,6 +11,9 @@
 
 - FineApple은 사용자가 자신의 라이프스타일을 보다 편리하게 관리할 수 있도록 도움을 주는 생활밀착형 서비스를 제공하는 데 그 의의가 있다
 
+- ![image](https://user-images.githubusercontent.com/92357194/169931055-4e89b3c2-9077-4192-b2f0-2a5e2a0cd1b6.png)
+
+
 
 # 운동관리 서비스
 
@@ -88,6 +91,7 @@
 
 -카카오 로그인 API, 식약처 식품영양정보 API, 네이버 쇼핑 API, 카카오 Map API, GEO Location
 
+![image](https://user-images.githubusercontent.com/92357194/169930990-4b71979f-b5df-48ed-9cd9-4b700a494701.png)
 
 
 ## 개발 이력
